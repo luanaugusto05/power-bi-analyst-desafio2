@@ -10,7 +10,8 @@
 ![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/ce2fcaea-58cd-4d96-97dd-88499e868198)
 
 - Foi realizada a contagem de colaboradores por gerente, percebe-se que um colaborador não possui gerente, pois provalvelmente deve ser o gerente-chefe.
-![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/1fc8a5e6-debd-4cbd-9a4c-8a396a3284aa)
+  
+  ![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/1fc8a5e6-debd-4cbd-9a4c-8a396a3284aa)
 
 - Foi realizada a mesclagem da tabela departamento e localização.
 ![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/33c8dd64-23f9-403e-be22-d3c05b6f0949)
@@ -20,3 +21,7 @@
 
 - No exemplo a seguir, devemos utilizar a ferramenta mesclar e não a atribuir, pos necessita-se que o colaborador esteja conectado ao seu respectivo gerente. Ao usarmos a ferramenta atribuir, não garantimos que isso ocorrerá.
 ![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/d48ccc20-4f6b-47f5-8415-d3f0a122021a)
+
+- Por fim, construí um relatório com informações sobre os dados.
+  
+  ![image](https://github.com/luanaugusto05/power-bi-analyst-desafio2/assets/113543581/fc582217-31f5-464c-a00d-13d382d2e588)
